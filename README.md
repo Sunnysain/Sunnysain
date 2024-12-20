@@ -56,7 +56,7 @@ I’m all about tackling real-world problems with data. 🌐 My next big project
 
 I’m always open to collaborating on exciting data science projects or chatting about the latest trends in tech. Feel free to reach out! 🌍
 
-- **LinkedIn**: [linkedin.com/in/dalchandsain](https://linkedin.com/in/dalchandsain)  
+- **LinkedIn**: [linkedin.com/in/dalchand-sain](www.linkedin.com/in/dalchand-sain)  
 - **Website**: [www.dalchandsain.in](https://www.dalchandsain.in)  
 - **Email**: [Dalchandsain@outlook.com](mailto:Dalchandsain@outlook.com)
 
